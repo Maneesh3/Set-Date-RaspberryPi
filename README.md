@@ -3,7 +3,7 @@
 #### Shelll script to set date and time in Raspberry Pi / any Linux distro.
 Specially used for Raspberry pi, the hardware clock is not perfect.
 This script will get get the date using `wget`, web-get-request to website `duckduckgo.com` (can be changed).
-_Note:Requires Internet Connection_
+>_Note:Requires Internet Connection_
 
 
 ## Installation & Useage
